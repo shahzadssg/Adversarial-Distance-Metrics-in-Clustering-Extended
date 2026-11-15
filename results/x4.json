@@ -1,0 +1,1104 @@
+{
+ "rows": [
+  {
+   "dataset": "Adult",
+   "seed": 0,
+   "metric": "Euclidean",
+   "tri_data": 7.449616499204562e-17,
+   "tri_fresh": -7.298011241934552e-07,
+   "stress": 2.1164743149681524e-16,
+   "scale": 5.9612358555300204
+  },
+  {
+   "dataset": "Adult",
+   "seed": 0,
+   "metric": "Manhattan",
+   "tri_data": 2.642010756925606e-16,
+   "tri_fresh": 2.642010756925606e-16,
+   "stress": 0.11124391244334138,
+   "scale": 10.085255149380922
+  },
+  {
+   "dataset": "Adult",
+   "seed": 0,
+   "metric": "Chebyshev",
+   "tri_data": 1.7432577890987608e-16,
+   "tri_fresh": 1.7432577890987608e-16,
+   "stress": 0.12087859702204745,
+   "scale": 5.094934468408718
+  },
+  {
+   "dataset": "Adult",
+   "seed": 0,
+   "metric": "Mahalanobis",
+   "tri_data": 1.4304862543625692e-16,
+   "tri_fresh": -1.0541693875767996e-06,
+   "stress": 2.4275611575810715e-16,
+   "scale": 6.208926628909841
+  },
+  {
+   "dataset": "Adult",
+   "seed": 0,
+   "metric": "weighted Euclidean",
+   "tri_data": 1.394943230825945e-16,
+   "tri_fresh": -4.0439904234097064e-07,
+   "stress": 5.252720095169866e-16,
+   "scale": 7.163020688454933
+  },
+  {
+   "dataset": "Adult",
+   "seed": 0,
+   "metric": "cosine",
+   "tri_data": 0.2499581959559316,
+   "tri_fresh": 0.2500821802258623,
+   "stress": 0.2974813133227108,
+   "scale": 1.9982426152179715
+  },
+  {
+   "dataset": "Adult",
+   "seed": 0,
+   "metric": "attack, targeted",
+   "eps": 0.007307058191547422,
+   "tri_data": -0.005050505049820745,
+   "tri_fresh": 271.215705563227,
+   "stress": 0.004628732571982701,
+   "scale": 0.07233987609634945,
+   "tri_fresh_over_eps": 2685.0354850770595,
+   "tri_data_over_eps": -0.04999999999324609
+  },
+  {
+   "dataset": "Adult",
+   "seed": 0,
+   "metric": "attack, maximal",
+   "eps": 0.007307058191547422,
+   "tri_data": -0.005050505049905663,
+   "tri_fresh": 148.4013316856723,
+   "stress": 0.011019774996566705,
+   "scale": 0.07233987609633429,
+   "tri_fresh_over_eps": 1469.1731836884564,
+   "tri_data_over_eps": -0.0499999999940763
+  },
+  {
+   "dataset": "Adult",
+   "seed": 1,
+   "metric": "Euclidean",
+   "tri_data": 7.911572537874972e-17,
+   "tri_fresh": -2.9570489922349744e-07,
+   "stress": 3.176311112947047e-16,
+   "scale": 5.613159807662509
+  },
+  {
+   "dataset": "Adult",
+   "seed": 1,
+   "metric": "Manhattan",
+   "tri_data": 3.042658999960529e-16,
+   "tri_fresh": 3.042658999960529e-16,
+   "stress": 0.1257258882911065,
+   "scale": 8.757258894719854
+  },
+  {
+   "dataset": "Adult",
+   "seed": 1,
+   "metric": "Chebyshev",
+   "tri_data": 1.6628511599716717e-16,
+   "tri_fresh": 1.6628511599716717e-16,
+   "stress": 0.12779438061006798,
+   "scale": 5.341298374024385
+  },
+  {
+   "dataset": "Adult",
+   "seed": 1,
+   "metric": "Mahalanobis",
+   "tri_data": 1.3701416488853163e-16,
+   "tri_fresh": -1.974139347752771e-07,
+   "stress": 3.756277440725246e-16,
+   "scale": 6.482383923025083
+  },
+  {
+   "dataset": "Adult",
+   "seed": 1,
+   "metric": "weighted Euclidean",
+   "tri_data": 1.6737137609450516e-16,
+   "tri_fresh": -2.5290848755764157e-07,
+   "stress": 5.257211603820596e-16,
+   "scale": 7.959949070371099
+  },
+  {
+   "dataset": "Adult",
+   "seed": 1,
+   "metric": "cosine",
+   "tri_data": 0.24998316255747174,
+   "tri_fresh": 0.24992086916480125,
+   "stress": 0.3013946616461811,
+   "scale": 1.9996800579341696
+  },
+  {
+   "dataset": "Adult",
+   "seed": 1,
+   "metric": "attack, targeted",
+   "eps": 0.007307058191547422,
+   "tri_data": -0.005050505047519851,
+   "tri_fresh": 1275.2052042781302,
+   "stress": 0.004641132671661618,
+   "scale": 0.07233987609643698,
+   "tri_fresh_over_eps": 12624.531522373996,
+   "tri_data_over_eps": -0.04999999997052774
+  },
+  {
+   "dataset": "Adult",
+   "seed": 2,
+   "metric": "Euclidean",
+   "tri_data": 7.062981099215505e-17,
+   "tri_fresh": -1.707528977284425e-07,
+   "stress": 3.0829990701808736e-16,
+   "scale": 6.287560501887627
+  },
+  {
+   "dataset": "Adult",
+   "seed": 2,
+   "metric": "Manhattan",
+   "tri_data": 2.195344279747671e-16,
+   "tri_fresh": 2.634413135697205e-16,
+   "stress": 0.1161893135625605,
+   "scale": 10.114340924720597
+  },
+  {
+   "dataset": "Adult",
+   "seed": 2,
+   "metric": "Chebyshev",
+   "tri_data": 1.6187393755917064e-16,
+   "tri_fresh": 1.6187393755917064e-16,
+   "stress": 0.12460074567803942,
+   "scale": 5.486852504440158
+  },
+  {
+   "dataset": "Adult",
+   "seed": 2,
+   "metric": "Mahalanobis",
+   "tri_data": 9.97977737010437e-17,
+   "tri_fresh": -1.411200000271202e-07,
+   "stress": 2.237977420729305e-16,
+   "scale": 6.674836422409365
+  },
+  {
+   "dataset": "Adult",
+   "seed": 2,
+   "metric": "weighted Euclidean",
+   "tri_data": 8.751787518044433e-17,
+   "tri_fresh": -1.9664513502571588e-07,
+   "stress": 7.96029378200566e-16,
+   "scale": 7.611402966555797
+  },
+  {
+   "dataset": "Adult",
+   "seed": 2,
+   "metric": "cosine",
+   "tri_data": 0.250143474874032,
+   "tri_fresh": 0.2500289080899907,
+   "stress": 0.30216789216199635,
+   "scale": 1.9987817076143886
+  },
+  {
+   "dataset": "Adult",
+   "seed": 2,
+   "metric": "attack, targeted",
+   "eps": 0.007307058191547422,
+   "tri_data": -0.0009256825030044995,
+   "tri_fresh": 4565.66003273436,
+   "stress": 0.0009087420429918123,
+   "scale": 0.3946848992272767,
+   "tri_fresh_over_eps": 246610.47205156516,
+   "tri_data_over_eps": -0.049999999430333404
+  },
+  {
+   "dataset": "Adult",
+   "seed": 3,
+   "metric": "Euclidean",
+   "tri_data": 1.2972702023316074e-16,
+   "tri_fresh": -2.4805602148801057e-06,
+   "stress": 3.4009092648345924e-16,
+   "scale": 5.134888734650958
+  },
+  {
+   "dataset": "Adult",
+   "seed": 3,
+   "metric": "Manhattan",
+   "tri_data": 2.0565200977368064e-16,
+   "tri_fresh": 2.570650122171008e-16,
+   "stress": 0.11489773118650637,
+   "scale": 8.637682857342972
+  },
+  {
+   "dataset": "Adult",
+   "seed": 3,
+   "metric": "Chebyshev",
+   "tri_data": 1.8922099406574196e-16,
+   "tri_fresh": 1.8922099406574196e-16,
+   "stress": 0.12541532028797028,
+   "scale": 4.693868268082035
+  },
+  {
+   "dataset": "Adult",
+   "seed": 3,
+   "metric": "Mahalanobis",
+   "tri_data": 1.0550735011847935e-16,
+   "tri_fresh": -2.743600194677298e-06,
+   "stress": 4.913109494338713e-16,
+   "scale": 6.313624728770647
+  },
+  {
+   "dataset": "Adult",
+   "seed": 3,
+   "metric": "weighted Euclidean",
+   "tri_data": 2.2102860206625323e-16,
+   "tri_fresh": -2.16628103868815e-06,
+   "stress": 5.915526658860604e-16,
+   "scale": 4.018386812372338
+  },
+  {
+   "dataset": "Adult",
+   "seed": 3,
+   "metric": "cosine",
+   "tri_data": 0.24983792987966336,
+   "tri_fresh": 0.25005255237618373,
+   "stress": 0.30245600265610323,
+   "scale": 1.9991447936984947
+  },
+  {
+   "dataset": "Adult",
+   "seed": 3,
+   "metric": "attack, targeted",
+   "eps": 0.007307058191547422,
+   "tri_data": -0.0050505050488569405,
+   "tri_fresh": 744.1184323186395,
+   "stress": 0.0054556713195128516,
+   "scale": 0.07233987609639793,
+   "tri_fresh_over_eps": 7366.77247996252,
+   "tri_data_over_eps": -0.049999999983737935
+  },
+  {
+   "dataset": "Adult",
+   "seed": 4,
+   "metric": "Euclidean",
+   "tri_data": 6.437822068761179e-17,
+   "tri_fresh": -1.2820627597470872e-06,
+   "stress": 2.5044936162953377e-16,
+   "scale": 6.898128048691444
+  },
+  {
+   "dataset": "Adult",
+   "seed": 4,
+   "metric": "Manhattan",
+   "tri_data": 2.5670914970078224e-16,
+   "tri_fresh": 3.4227886626770965e-16,
+   "stress": 0.1139612149855957,
+   "scale": 10.379588192341927
+  },
+  {
+   "dataset": "Adult",
+   "seed": 4,
+   "metric": "Chebyshev",
+   "tri_data": 1.483083467001761e-16,
+   "tri_fresh": 1.483083467001761e-16,
+   "stress": 0.12253373016431765,
+   "scale": 5.988728479966735
+  },
+  {
+   "dataset": "Adult",
+   "seed": 4,
+   "metric": "Mahalanobis",
+   "tri_data": 1.2820144266692514e-16,
+   "tri_fresh": -1.6345113246823875e-06,
+   "stress": 2.3863347523622377e-16,
+   "scale": 6.9279908339851115
+  },
+  {
+   "dataset": "Adult",
+   "seed": 4,
+   "metric": "weighted Euclidean",
+   "tri_data": 1.4743418054375632e-16,
+   "tri_fresh": -6.687557373616389e-07,
+   "stress": 4.184891883628801e-16,
+   "scale": 7.530296031290102
+  },
+  {
+   "dataset": "Adult",
+   "seed": 4,
+   "metric": "cosine",
+   "tri_data": 0.25009525431422225,
+   "tri_fresh": 0.24965893712750406,
+   "stress": 0.30270297554714076,
+   "scale": 1.9990548736253628
+  },
+  {
+   "dataset": "Adult",
+   "seed": 4,
+   "metric": "attack, targeted",
+   "eps": 0.007307058191547422,
+   "tri_data": -0.0025252525234306855,
+   "tri_fresh": 762.7700125700449,
+   "stress": 0.0024537528392675357,
+   "scale": 0.14467975219277734,
+   "tri_fresh_over_eps": 15102.846248901333,
+   "tri_data_over_eps": -0.049999999963975396
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 0,
+   "metric": "Euclidean",
+   "tri_data": 1.4472964578604255e-16,
+   "tri_fresh": -9.982803321100067e-05,
+   "stress": 3.2457872569051305e-16,
+   "scale": 6.136810567567764
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 0,
+   "metric": "Manhattan",
+   "tri_data": 3.4470258078744666e-16,
+   "tri_fresh": 3.4470258078744666e-16,
+   "stress": 0.1551129377803274,
+   "scale": 10.306605975170243
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 0,
+   "metric": "Chebyshev",
+   "tri_data": 1.8280125869185302e-16,
+   "tri_fresh": 1.8280125869185302e-16,
+   "stress": 0.13543852533234665,
+   "scale": 4.858710635014402
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 0,
+   "metric": "Mahalanobis",
+   "tri_data": 1.0568974763861439e-16,
+   "tri_fresh": -0.00018096005734595397,
+   "stress": 5.11857990465958e-16,
+   "scale": 8.403638380678883
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 0,
+   "metric": "weighted Euclidean",
+   "tri_data": 1.7836470520566942e-16,
+   "tri_fresh": -3.4968402889060616e-05,
+   "stress": 7.205551308146776e-16,
+   "scale": 7.469345619773665
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 0,
+   "metric": "cosine",
+   "tri_data": 0.25075498186102435,
+   "tri_fresh": 0.25080783559027664,
+   "stress": 0.2683896846895605,
+   "scale": 1.9895113701189469
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 0,
+   "metric": "attack, targeted",
+   "eps": 0.008524053745639294,
+   "tri_data": -0.00505050504958706,
+   "tri_fresh": 338.9831720634597,
+   "stress": 0.0054213531867396796,
+   "scale": 0.08438813208187651,
+   "tri_fresh_over_eps": 3355.9334034301396,
+   "tri_data_over_eps": -0.04999999999094004
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 0,
+   "metric": "attack, maximal",
+   "eps": 0.008524053745639294,
+   "tri_data": -0.005050505049586618,
+   "tri_fresh": 392.3287288431658,
+   "stress": 0.004303978838794131,
+   "scale": 0.08438813208188391,
+   "tri_fresh_over_eps": 3884.054415549868,
+   "tri_data_over_eps": -0.04999999999094005
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 1,
+   "metric": "Euclidean",
+   "tri_data": 1.0318103752740424e-16,
+   "tri_fresh": -4.876019424718154e-05,
+   "stress": 2.8799009463991473e-16,
+   "scale": 6.45597127861961
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 1,
+   "metric": "Manhattan",
+   "tri_data": 2.8387563667870467e-16,
+   "tri_fresh": 2.8387563667870467e-16,
+   "stress": 0.17423927380447912,
+   "scale": 12.515035528820402
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 1,
+   "metric": "Chebyshev",
+   "tri_data": 1.031485533166546e-16,
+   "tri_fresh": 1.031485533166546e-16,
+   "stress": 0.13887751440615106,
+   "scale": 4.305336289950263
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 1,
+   "metric": "Mahalanobis",
+   "tri_data": 1.2287128682606632e-16,
+   "tri_fresh": -0.00010359223391656435,
+   "stress": 2.89482781393307e-16,
+   "scale": 7.2285270435672215
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 1,
+   "metric": "weighted Euclidean",
+   "tri_data": 1.4638790449985184e-16,
+   "tri_fresh": -4.363584669941776e-05,
+   "stress": 6.468851187996993e-16,
+   "scale": 8.721734781852978
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 1,
+   "metric": "cosine",
+   "tri_data": 0.2541167385787169,
+   "tri_fresh": 0.2531846723523921,
+   "stress": 0.2726910069779999,
+   "scale": 1.960819423167595
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 1,
+   "metric": "attack, targeted",
+   "eps": 0.008524053745639294,
+   "tri_data": -0.0025252525245774964,
+   "tri_fresh": 217.08701149189727,
+   "stress": 0.002365611781738724,
+   "scale": 0.1687762641637112,
+   "tri_fresh_over_eps": 4298.32282754092,
+   "tri_data_over_eps": -0.04999999998665018
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 2,
+   "metric": "Euclidean",
+   "tri_data": 6.95799685525083e-17,
+   "tri_fresh": -0.0003408689744339728,
+   "stress": 3.327013138109338e-16,
+   "scale": 6.382429010656021
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 2,
+   "metric": "Manhattan",
+   "tri_data": 3.241072003567201e-16,
+   "tri_fresh": 3.241072003567201e-16,
+   "stress": 0.1710820562434759,
+   "scale": 10.961538882475612
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 2,
+   "metric": "Chebyshev",
+   "tri_data": 9.0213791119161e-17,
+   "tri_fresh": 9.0213791119161e-17,
+   "stress": 0.12775683207865027,
+   "scale": 4.922631056081847
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 2,
+   "metric": "Mahalanobis",
+   "tri_data": 1.1959334985768434e-16,
+   "tri_fresh": -0.00028579744690893533,
+   "stress": 3.9654367180913466e-16,
+   "scale": 7.426653913090104
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 2,
+   "metric": "weighted Euclidean",
+   "tri_data": 1.2492660846343684e-16,
+   "tri_fresh": -0.0001624869383458421,
+   "stress": 3.6550722178516093e-16,
+   "scale": 7.109601634307351
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 2,
+   "metric": "cosine",
+   "tri_data": 0.24850408744003125,
+   "tri_fresh": 0.2509263737664512,
+   "stress": 0.2691838491938246,
+   "scale": 1.991291353346279
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 2,
+   "metric": "attack, targeted",
+   "eps": 0.008524053745639294,
+   "tri_data": -0.005050505049825096,
+   "tri_fresh": 202.33490734938243,
+   "stress": 0.005693144889212401,
+   "scale": 0.08438813208186448,
+   "tri_fresh_over_eps": 2003.115582759728,
+   "tri_data_over_eps": -0.04999999999328947
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 3,
+   "metric": "Euclidean",
+   "tri_data": 1.0621116872272048e-16,
+   "tri_fresh": -0.00013946349173359632,
+   "stress": 2.8587308598916165e-16,
+   "scale": 8.362382510062032
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 3,
+   "metric": "Manhattan",
+   "tri_data": 2.381053526676527e-16,
+   "tri_fresh": 2.381053526676527e-16,
+   "stress": 0.15860848261862676,
+   "scale": 14.920763598957713
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 3,
+   "metric": "Chebyshev",
+   "tri_data": 1.375314044222061e-16,
+   "tri_fresh": 1.375314044222061e-16,
+   "stress": 0.10702781884953105,
+   "scale": 6.458004434925396
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 3,
+   "metric": "Mahalanobis",
+   "tri_data": 1.1557688307043983e-16,
+   "tri_fresh": -0.00012836460612591037,
+   "stress": 3.1744915847297105e-16,
+   "scale": 7.684741066765172
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 3,
+   "metric": "weighted Euclidean",
+   "tri_data": 8.198741135502273e-17,
+   "tri_fresh": -0.0001323237678356249,
+   "stress": 3.879626520641464e-16,
+   "scale": 6.7706920262286205
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 3,
+   "metric": "cosine",
+   "tri_data": 0.2548488167754373,
+   "tri_fresh": 0.2573725959018133,
+   "stress": 0.261158419721468,
+   "scale": 1.9420123333907784
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 3,
+   "metric": "attack, targeted",
+   "eps": 0.008524053745639294,
+   "tri_data": -0.005050505048855254,
+   "tri_fresh": 612.4834698834682,
+   "stress": 0.005673771242975227,
+   "scale": 0.08438813208189294,
+   "tri_fresh_over_eps": 6063.5863518509295,
+   "tri_data_over_eps": -0.0499999999837049
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 4,
+   "metric": "Euclidean",
+   "tri_data": 1.3955201978570041e-16,
+   "tri_fresh": -0.0004461910245176898,
+   "stress": 3.526551309462077e-16,
+   "scale": 6.364497060408257
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 4,
+   "metric": "Manhattan",
+   "tri_data": 2.9304870444162195e-16,
+   "tri_fresh": 2.9304870444162195e-16,
+   "stress": 0.16503108097409558,
+   "scale": 12.123287443190982
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 4,
+   "metric": "Chebyshev",
+   "tri_data": 1.9295688417473373e-16,
+   "tri_fresh": 1.9295688417473373e-16,
+   "stress": 0.13285425250052083,
+   "scale": 4.6029890226452235
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 4,
+   "metric": "Mahalanobis",
+   "tri_data": 1.4289844906506636e-16,
+   "tri_fresh": -0.00039192611677341685,
+   "stress": 2.5929264838280786e-16,
+   "scale": 6.215451780695734
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 4,
+   "metric": "weighted Euclidean",
+   "tri_data": 1.491379755172032e-16,
+   "tri_fresh": -0.00018103913719219884,
+   "stress": 6.903885700510213e-16,
+   "scale": 7.258161077053536
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 4,
+   "metric": "cosine",
+   "tri_data": 0.25404251710224274,
+   "tri_fresh": 0.25561510420970096,
+   "stress": 0.2620106899839047,
+   "scale": 1.9475433459814875
+  },
+  {
+   "dataset": "COMPAS",
+   "seed": 4,
+   "metric": "attack, targeted",
+   "eps": 0.008524053745639294,
+   "tri_data": -0.0025252525248501043,
+   "tri_fresh": 146.55748162669158,
+   "stress": 0.002161630790945363,
+   "scale": 0.16877626416370076,
+   "tri_fresh_over_eps": 2901.838136209228,
+   "tri_data_over_eps": -0.04999999999204473
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 0,
+   "metric": "Euclidean",
+   "tri_data": -5.9125207775780366e-05,
+   "tri_fresh": -0.0014231977911212126,
+   "stress": 3.8970515306721575e-16,
+   "scale": 6.846856557818114
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 0,
+   "metric": "Manhattan",
+   "tri_data": 2.4910984212211965e-16,
+   "tri_fresh": 2.4910984212211965e-16,
+   "stress": 0.15597900614073265,
+   "scale": 14.26163514269691
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 0,
+   "metric": "Chebyshev",
+   "tri_data": 1.7093454615285076e-16,
+   "tri_fresh": 1.7093454615285076e-16,
+   "stress": 0.1458295534659993,
+   "scale": 5.196014730140685
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 0,
+   "metric": "Mahalanobis",
+   "tri_data": -0.00010148113107534891,
+   "tri_fresh": -0.0015768334480928661,
+   "stress": 4.0057157764519954e-16,
+   "scale": 6.563940638157551
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 0,
+   "metric": "weighted Euclidean",
+   "tri_data": -9.79329923110243e-05,
+   "tri_fresh": -0.0008065935504127325,
+   "stress": 3.141190070424428e-16,
+   "scale": 7.781605372461578
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 0,
+   "metric": "cosine",
+   "tri_data": 0.24567604743809113,
+   "tri_fresh": 0.2505567020074892,
+   "stress": 0.3334236536194298,
+   "scale": 1.985510231988101
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 0,
+   "metric": "attack, targeted",
+   "eps": 0.02133971195753396,
+   "tri_data": -0.0012017602838403922,
+   "tri_fresh": 90.35376778465638,
+   "stress": 0.0009583396496130327,
+   "scale": 0.8878522712428822,
+   "tri_fresh_over_eps": 3759.2259025144567,
+   "tri_data_over_eps": -0.04999999998221556
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 0,
+   "metric": "attack, maximal",
+   "eps": 0.02133971195753396,
+   "tri_data": -0.0020458125760011428,
+   "tri_fresh": 81.86204272951792,
+   "stress": 0.0021069888536133664,
+   "scale": 0.5215461133547078,
+   "tri_fresh_over_eps": 2000.7219545333992,
+   "tri_data_over_eps": -0.04999999999010675
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 1,
+   "metric": "Euclidean",
+   "tri_data": -3.7120979315277516e-05,
+   "tri_fresh": -0.0006933800612801088,
+   "stress": 4.600892687008544e-16,
+   "scale": 7.399934380993497
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 1,
+   "metric": "Manhattan",
+   "tri_data": 2.3867633299559396e-16,
+   "tri_fresh": 2.1215674044052796e-16,
+   "stress": 0.16071640728080494,
+   "scale": 16.745702594334503
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 1,
+   "metric": "Chebyshev",
+   "tri_data": 1.4786096476650494e-16,
+   "tri_fresh": 1.971479530220066e-16,
+   "stress": 0.143089702225966,
+   "scale": 4.505136401801659
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 1,
+   "metric": "Mahalanobis",
+   "tri_data": -6.943480046586251e-05,
+   "tri_fresh": -0.0006540154774626122,
+   "stress": 2.865917471971059e-16,
+   "scale": 6.737098077482936
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 1,
+   "metric": "weighted Euclidean",
+   "tri_data": -1.837861948890019e-05,
+   "tri_fresh": -0.0010623059254065673,
+   "stress": 3.482025971116597e-16,
+   "scale": 9.609081166103497
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 1,
+   "metric": "cosine",
+   "tri_data": 0.2389183985600897,
+   "tri_fresh": 0.2448671973611315,
+   "stress": 0.3310177952884881,
+   "scale": 1.9944276468444881
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 1,
+   "metric": "attack, targeted",
+   "eps": 0.030472165463222605,
+   "tri_data": -0.0020541931000312673,
+   "tri_fresh": 669.2230478664816,
+   "stress": 0.0017057962742611991,
+   "scale": 0.7417064500355173,
+   "tri_fresh_over_eps": 16289.195190741244,
+   "tri_data_over_eps": -0.049999999958995865
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 2,
+   "metric": "Euclidean",
+   "tri_data": -7.642061972440414e-05,
+   "tri_fresh": -0.0017446753055174507,
+   "stress": 3.103664232140162e-16,
+   "scale": 7.313304590367262
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 2,
+   "metric": "Manhattan",
+   "tri_data": 2.414518635187384e-16,
+   "tri_fresh": 2.2724881272351847e-16,
+   "stress": 0.156607588305829,
+   "scale": 15.63358521535115
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 2,
+   "metric": "Chebyshev",
+   "tri_data": 1.7093454615285076e-16,
+   "tri_fresh": 1.7093454615285076e-16,
+   "stress": 0.13030548433137001,
+   "scale": 5.196014730140685
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 2,
+   "metric": "Mahalanobis",
+   "tri_data": -0.00022415975322798655,
+   "tri_fresh": -0.0011936735607240639,
+   "stress": 2.9435259641310835e-16,
+   "scale": 6.523683557879114
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 2,
+   "metric": "weighted Euclidean",
+   "tri_data": -6.841448331589748e-05,
+   "tri_fresh": -0.0016781659922963151,
+   "stress": 2.570840253209923e-16,
+   "scale": 7.355176782801243
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 2,
+   "metric": "cosine",
+   "tri_data": 0.2485689249612238,
+   "tri_fresh": 0.24556900974789994,
+   "stress": 0.3251516427344695,
+   "scale": 1.9700396619860343
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 2,
+   "metric": "attack, targeted",
+   "eps": 0.031243868183924717,
+   "tri_data": -0.0019909917931912975,
+   "tri_fresh": 332.0233501514938,
+   "stress": 0.0017251162680563595,
+   "scale": 0.7846307621027947,
+   "tri_fresh_over_eps": 8338.139590517398,
+   "tri_data_over_eps": -0.049999999962740266
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 3,
+   "metric": "Euclidean",
+   "tri_data": -3.3121620982865126e-07,
+   "tri_fresh": -0.0015776784455404753,
+   "stress": 3.6654305204823605e-16,
+   "scale": 8.754205674519945
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 3,
+   "metric": "Manhattan",
+   "tri_data": 2.300001640699011e-16,
+   "tri_fresh": 2.300001640699011e-16,
+   "stress": 0.14954191380505075,
+   "scale": 19.308212741756833
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 3,
+   "metric": "Chebyshev",
+   "tri_data": 1.621973065948026e-16,
+   "tri_fresh": 1.621973065948026e-16,
+   "stress": 0.14188412436275813,
+   "scale": 5.4759134929345725
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 3,
+   "metric": "Mahalanobis",
+   "tri_data": -5.987610978077854e-07,
+   "tri_fresh": -0.0024932085753374797,
+   "stress": 2.7118081531843485e-16,
+   "scale": 7.788338386260443
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 3,
+   "metric": "weighted Euclidean",
+   "tri_data": -1.4424658039603117e-07,
+   "tri_fresh": -0.001360464199593349,
+   "stress": 3.7254060629097686e-16,
+   "scale": 7.7936473839620115
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 3,
+   "metric": "cosine",
+   "tri_data": 0.2455872259395963,
+   "tri_fresh": 0.24943182587673543,
+   "stress": 0.3323204677229445,
+   "scale": 1.9947504028635104
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 3,
+   "metric": "attack, targeted",
+   "eps": 0.030510414571665014,
+   "tri_data": -0.0034394430856663247,
+   "tri_fresh": 662.554614695261,
+   "stress": 0.0029222591828260702,
+   "scale": 0.44353713376919496,
+   "tri_fresh_over_eps": 9631.713593311964,
+   "tri_data_over_eps": -0.049999999980186
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 4,
+   "metric": "Euclidean",
+   "tri_data": -1.7506395482084594e-06,
+   "tri_fresh": -0.00035060885650297713,
+   "stress": 3.9136774349572183e-16,
+   "scale": 7.419587163270254
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 4,
+   "metric": "Manhattan",
+   "tri_data": 2.1759203759292866e-16,
+   "tri_fresh": 2.1759203759292866e-16,
+   "stress": 0.1611945480839598,
+   "scale": 16.327406637217674
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 4,
+   "metric": "Chebyshev",
+   "tri_data": 1.5742679757730838e-16,
+   "tri_fresh": 7.871339878865419e-17,
+   "stress": 0.13352568269296033,
+   "scale": 5.641850265447742
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 4,
+   "metric": "Mahalanobis",
+   "tri_data": -4.390114330252065e-06,
+   "tri_fresh": -0.0008027693148976495,
+   "stress": 3.4185070044707986e-16,
+   "scale": 7.721945077766367
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 4,
+   "metric": "weighted Euclidean",
+   "tri_data": -2.3338667743997714e-06,
+   "tri_fresh": -0.0002810151983872122,
+   "stress": 4.775234056356358e-16,
+   "scale": 9.736365244855225
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 4,
+   "metric": "cosine",
+   "tri_data": 0.2475979902408968,
+   "tri_fresh": 0.24801593177635828,
+   "stress": 0.33259235589404945,
+   "scale": 1.963277656295532
+  },
+  {
+   "dataset": "German Credit",
+   "seed": 4,
+   "metric": "attack, targeted",
+   "eps": 0.0076499986181379764,
+   "tri_data": -0.0005106276056837386,
+   "tri_fresh": 332.57579994723017,
+   "stress": 0.00040553781644920005,
+   "scale": 0.7490780483748928,
+   "tri_fresh_over_eps": 32565.395576741616,
+   "tri_data_over_eps": -0.04999999992222487
+  }
+ ],
+ "eps_sweep": [
+  {
+   "dataset": "Adult",
+   "eps": 0.007307058191547422,
+   "tri_data": -0.0003653529095280199,
+   "tri_fresh": 19.619710535827835,
+   "max_target": 0.07233987609634945,
+   "cond1_V": 123241658.11924705
+  },
+  {
+   "dataset": "Adult",
+   "eps": 0.0007307058191547422,
+   "tri_data": -0.00036535290952325813,
+   "tri_fresh": 19.619710535864492,
+   "max_target": 0.07233987609634847,
+   "cond1_V": 1215987052.467842
+  },
+  {
+   "dataset": "Adult",
+   "eps": 7.307058191547423e-05,
+   "tri_data": -0.00036535290952330324,
+   "tri_fresh": 19.61971053583873,
+   "max_target": 0.07233987609634336,
+   "cond1_V": 12143440995.932928
+  },
+  {
+   "dataset": "COMPAS",
+   "eps": 0.008524053745639294,
+   "tri_data": -0.00042620268720473716,
+   "tri_fresh": 28.606156697624705,
+   "max_target": 0.08438813208187651,
+   "cond1_V": 116962092.4947571
+  },
+  {
+   "dataset": "COMPAS",
+   "eps": 0.0008524053745639293,
+   "tri_data": -0.00042620268720799936,
+   "tri_fresh": 28.606156697647883,
+   "max_target": 0.08438813208186009,
+   "cond1_V": 1151628428.3566992
+  },
+  {
+   "dataset": "COMPAS",
+   "eps": 8.524053745639293e-05,
+   "tri_data": -0.000426202687188737,
+   "tri_fresh": 28.606156697469018,
+   "max_target": 0.0843881320818716,
+   "cond1_V": 11498291786.902988
+  },
+  {
+   "dataset": "German Credit",
+   "eps": 0.02133971195753396,
+   "tri_data": -0.0010669855974971831,
+   "tri_fresh": 80.22079794295914,
+   "max_target": 0.8878522712428822,
+   "cond1_V": 15135248.358026098
+  },
+  {
+   "dataset": "German Credit",
+   "eps": 0.002133971195753396,
+   "tri_data": -0.0010669855974190234,
+   "tri_fresh": 80.22079794276061,
+   "max_target": 0.8878522712430117,
+   "cond1_V": 147167847.46392998
+  },
+  {
+   "dataset": "German Credit",
+   "eps": 0.00021339711957533958,
+   "tri_data": -0.001066985597332152,
+   "tri_fresh": 80.2207979429748,
+   "max_target": 0.8878522712429305,
+   "cond1_V": 1467493838.5264866
+  }
+ ]
+}
